@@ -1,5 +1,3 @@
-# The list of nations has been taken from
-# https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population.
 nations = '''
 Afghanistan
 Albania
@@ -53,7 +51,6 @@ Dominica
 Dominica
 Ecuador
 Egypt
-E
 Equatoria
 Eritrea
 Estonia
@@ -124,7 +121,6 @@ Namibia
 Nauru
 Nepal
 Netherlands
-Ne
 Nicaragua
 Niger
 Nigeria
@@ -146,12 +142,7 @@ Qatar
 Romania
 Russia
 Rwanda
-Sain
-Sain
-Sain
 Samoa
-Sa
-Sa
 Saud
 Senegal
 Serbia
@@ -166,7 +157,6 @@ Sout
 Sout
 Sout
 Spain
-Sr
 Sudan
 Suriname
 Sweden
